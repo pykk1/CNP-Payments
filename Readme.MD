@@ -15,11 +15,11 @@ Output data:
 - Total amount of payments made by romanian citizens born in Bucharest.
 - Total number of payments made by foreigners(CNP first digit = 9).
 - Errors :
-      - line : at which we got an error
+      - line(at which we got an error)
       - type :
-              - 0 : Invalid line.
-              - 1 : Invalid CNP.
-              - 2 : Invalid payment amount.
+               (0 : Invalid line.
+               1 : Invalid CNP.
+               2 : Invalid payment amount.)
               
 Output data will be serialized in another .csv file.
 
