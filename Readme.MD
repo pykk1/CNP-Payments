@@ -1,4 +1,4 @@
-Java application which processes data: Personal Identification Number(CNP in romanian) separated from a pay amount(in RON) by a semicolon
+Java application which processes data: Personal Identification Number(CNP in romanian) separated from a payment amount(in RON) by a semicolon
 
 Input data:
 - Data comes from a .csv file, with semicolon separated fields.
