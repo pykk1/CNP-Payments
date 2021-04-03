@@ -8,7 +8,7 @@ Input data:
 - There might be empty lines in the .csv file which should be ignored.
 
 Output data:
-- Average ayment amount.
+- Average payment amount.
 - Small payments, the number of payments with a value smaller than 5000 units(including 5000 units).
 - Big Payments, the number of payments with a value greater than 5000 units.
 - Payments by minors
